@@ -22,5 +22,6 @@ Only authenticated Mission Control operators shall be permitted to issue command
 ### NFR3 – Reliability	
 The system shall continue operating despite temporary communication interruptions.
 ### NFR4 – Scalability	
-The system should support communication with multiple rovers simultaneously.
+The system shall support at least 20 simultaneously
+connected rovers.
 
