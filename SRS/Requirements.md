@@ -6,7 +6,7 @@ The system shall allow authenticated Mission Control operators to send movement 
 The rover shall receive and execute valid commands sent by Mission Control.
 ### FR-03 Receive and execute valid commands.
 The rover shall report its current position to Mission Control.
-### FR-04 Safe Mode within 3 seconds
+### FR-04 Safe Mode within 3 seconds 
 The rover shall enter Safe Mode within 3 seconds when
 battery temperature exceeds the critical threshold or
 battery capacity falls below the defined emergency level.
