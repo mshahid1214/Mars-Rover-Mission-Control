@@ -18,7 +18,8 @@ The system shall reject invalid or unauthorized commands.
 ### NFR1 – Performance	
 Command processing should normally complete within 5 seconds after a command is received by the rover.
 ### NFR2 – Security
-Only authenticated Mission Control operators shall be permitted to issue commands.
+The system shall require authenticated and role-authorized
+operators before accepting rover commands.
 ### NFR3 – Reliability	
 The system shall continue operating despite temporary communication interruptions.
 ### NFR4 – Scalability	
